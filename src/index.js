@@ -1,5 +1,7 @@
-import { StrictMode } from 'react';
-import { createRoot } from 'react-dom/client';
-import './styles.css';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import App from './App'
+import Styles from './index.css'
 
-import App from './App';
+const rootEl = document.getElementById('root')
+ReactDOM.render(<App />, rootEl)

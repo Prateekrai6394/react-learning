@@ -1,7 +1,7 @@
 // NewPage.js
 import React from 'react';
 
-export default function NewPage() {
+export default function TodoHomePage() {
   return (
     <div>
       <h1>This is the New Page!</h1>
