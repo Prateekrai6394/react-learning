@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-learning/static/css/main.95dd58e3.css",
+    "main.js": "/react-learning/static/js/main.1e0f2145.js",
+    "static/media/marketing.2eed95a2.jpg": "/react-learning/static/media/marketing.2eed95a2.f629aa392c4ff105f747.jpg",
+    "static/media/app.70cea92a.jpeg": "/react-learning/static/media/app.70cea92a.8714f36598ad2ce812b5.jpeg",
+    "static/media/s1.png.jpeg": "/react-learning/static/media/s1.png.ee1d95083516dda0d669.jpeg",
+    "static/media/software.43049cae.jpeg": "/react-learning/static/media/software.43049cae.1cb4dc77f9fd741d63f4.jpeg",
+    "static/media/digital.ac8f6f9a.jpeg": "/react-learning/static/media/digital.ac8f6f9a.dad8270c838055c62dd3.jpeg",
+    "static/media/s1.1192a86d.jpg": "/react-learning/static/media/s1.1192a86d.8e51e67dff71d6464727.jpg",
+    "static/media/hero-img.619f0cc8.png": "/react-learning/static/media/hero-img.619f0cc8.53f1b5467e5095dc4126.png",
+    "static/media/react2 img.jpg.svg": "/react-learning/static/media/react2 img.jpg.d12e2a271e618bd9bc130b61d3930482.svg",
+    "index.html": "/react-learning/index.html",
+    "main.95dd58e3.css.map": "/react-learning/static/css/main.95dd58e3.css.map",
+    "main.1e0f2145.js.map": "/react-learning/static/js/main.1e0f2145.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95dd58e3.css",
+    "static/js/main.1e0f2145.js"
+  ]
+}
