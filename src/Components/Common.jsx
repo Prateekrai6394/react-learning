@@ -12,7 +12,7 @@ const Common = (props) => {
                        <div className="col-md-6 pt-5  pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                           <h1> {props.name}  <strong className="brand-name"> Prateek Rai  </strong> </h1>
                           <h2 className="my-3">
-                             We are team of talented developer making websites
+                          To leverage my skills and knowledge in web development and coding while contributing to the success of the Digipaath project at Digiidunia. As an intern, I aim to deliver innovative solutions, enhance my technical expertise, and gain hands-on experience in a dynamic work environment.
                           </h2>
                           <div className="mt-3">
                            <NavLink to= {props.visit} className="btn-get-started"> {props.btname} </NavLink>

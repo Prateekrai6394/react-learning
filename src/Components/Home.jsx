@@ -5,7 +5,7 @@ import Common from "./Common";
 const Home = () => {
     return(
         <>
-        <Common  name= 'Grow your business with' imgsrc= {img} visit= '/service' btname="Get Started" />
+        <Common  name= 'Full Stack Web Developer' imgsrc= {img} visit= '/service' btname="Get Started" />
         </>
     )
 }
